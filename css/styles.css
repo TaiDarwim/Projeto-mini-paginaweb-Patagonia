@@ -1,0 +1,158 @@
+html {
+  font-family: "Segoe UI";
+  background-color: #f3f2f2;
+}
+
+.container {
+  max-width: 1100px;
+  background-color: #fff;
+  position: relative;
+  margin: 50px auto;
+  padding: 40px 70px;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+/*header*/
+.header {
+  text-align: center;
+}
+
+.main-title {
+  font-size: 35px;
+  color: #333;
+  margin: 10px 0;
+  padding: 15px 0;
+  border-bottom: 0.5px solid #ddd;
+}
+
+.main-paragraph {
+  font-size: 22px;
+  color: #333;
+  font-style: italic;
+  padding: 0px 15px;
+}
+
+/*primeira imagem*/
+.featured-image {
+  text-align: center;
+  font-size: 15px;
+  font-style: italic;
+}
+
+.img-destaque {
+  width: 1000px;
+}
+
+/*sobre*/
+.biography-container {
+  padding: 15px 15px;
+  margin: 25px 0;
+  border-top: 1px dashed #ddd;
+  border-bottom: 1px dashed #ddd;
+  font-size: 19px;
+}
+
+.biography-container h2 {
+  font-size: 25px;
+}
+
+/*Citação*/
+.quotes-container {
+  background-color: #f0efef;
+  padding: 15px;
+}
+
+.quotes-container blockquote {
+  border-left: 3px solid #333;
+}
+
+.quotes-container p {
+  margin-left: 10px;
+  font-size: 19px;
+}
+
+/*Curiosidades*/
+.curiosities-container {
+  padding: 15px 15px;
+  margin: 25px 0;
+  border-top: 1px dashed #ddd;
+  border-bottom: 1px dashed #ddd;
+  font-size: 19px;
+}
+
+.curiosities-container h2 {
+  font-size: 25px;
+}
+
+.curiosities-container li {
+  margin-top: 15px;
+}
+
+/*Segunda imagem*/
+.torres-container {
+  text-align: center;
+  border-bottom: 1px dashed #ddd;
+  padding: 0 15px;
+  margin: 25px 0;
+}
+
+.torres-container h2 {
+  font-size: 25px;
+}
+
+.torres-container p {
+  text-align: left;
+  font-size: 19px;
+}
+
+.img-bold{
+    font-size: 15px;
+    font-style: italic;
+}
+
+/*mais informações*/
+.more-info-container{
+  padding: 0px 15px;
+  margin: 25px 0;
+  border-bottom: 1px dashed #ddd;
+  font-size: 19px;
+}
+
+.more-info-container h2{
+   font-size: 25px; 
+}
+
+/*CTA Final*/
+.cta-final{
+    background-color: #444;
+    padding: 20px;
+    text-align: center;
+}
+
+.cta-final p{
+    font-size: 25px;
+    color: #fff;
+    font-weight: bold;
+}
+
+.cta-final button{
+    padding: 15px;
+    border-radius: 50px;
+    font-family: "Segoe UI";
+    background-color: #04bb13;
+    font-weight: 500;
+    color: #fff;
+    border: 1px solid #04bb13 ;
+}
+
+.cta-final button:hover{
+    background-color: #b3f0b9;
+    color: #333;
+}
+
+
+
+
